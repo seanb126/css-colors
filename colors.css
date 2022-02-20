@@ -173,6 +173,80 @@
 .pumpkin{color:#FF7518}
 .purple{color:#800080}
 
+/* Q */
+.quartz.grey{color:#6C6961}
+
+/* R */
+.raw-umber{color:#734A12}
+.razzmatazz{color:#E30B5C}
+.red{color:red}
+.robin-egg-blue{color:#00CCCC}
+.rose{color:#FF007F}
+.royal-blue{color:#4169E1}
+.royal-purple{color:#6B3FA0}
+.ruby{color:#E0115F}
+.russet{color:#80461B}
+.rust{color:#B7410E}
+
+/* S */
+.safety-orange{color:#FF6600}
+.saffron{color:#F4C430}
+.salmon{color:#FF8C69}
+.sandy-brown{color:#F4A460}
+.sangria{color:#92000A}
+.sapphire{color:#082567}
+.scarlet{color:#FF2400}
+.school-bus-yellow{color:#FFD800}
+.sea-green{color:#2E8B57}
+.seashell{color:#FFF5EE}
+.sepia{color:#704214}
+.shamrock-green{color:#009E60}
+.shocking-pink{color:#FC0FC0}
+.silver{color:silver}
+.sky-blue{color:#87CEEB}
+.slate-grey{color:#708090}
+.smalt{color:#003399}
+.spring-bud{color:#A7FC00}
+.spring-green{color:#00FF7F}
+.steel-blue{color:#4682B4}
+
+/* T */
+.tan{color:tan}
+.tangerine{color:#F28500}
+.taupe{color:#483C32}
+.teal{color:teal}
+.tawny{color:#CD5700}
+.terra-cotta{color:#E2725B}
+.thistle{color:#D8BFD8}
+.titanium-white{color:#fff}
+.tomato{color:tomato}
+.turquoise{color:#30D5C8}
+.tyrian-purple{color:#66023C}
+
+/* U */
+.ultramarine{color:#120A8F}
+
+/* V */
+.van-dyke-brown{color:#413000}
+.vermilion{color:#E34234}
+.violet{color:#8B00FF}
+.veridian{color:#40826D}
+
+/* W */
+.wheat{color:#F5DEB3}
+.white{color:white}
+.white-smoke{color:whitesmoke}
+.wisteria{color:#C9A0DC}
+
+/* X */
+.xanthic{color:#eeed09}
+
+/* Y */
+.yellow{color:yellow}
+.yellow-green{color:yellowgreen}
+
+/* Z */
+.zucchini{color:#506022}
 
 /* Alternatives */
 .alt-gold{color:gold}
@@ -181,3 +255,5 @@
 .alt-khaki{color:khaki}
 .alt-lavender{color:lavender}
 .alt-orange{color:orange}
+.alt-violet{color:violet}
+.alt-{color: light}
