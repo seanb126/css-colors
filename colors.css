@@ -274,3 +274,281 @@
 .alt-orange{color:orange}
 .alt-violet{color:violet}
 .alt-{color: light}
+
+
+/* --------------------------------------------------------CSS BACKGROUND COLORS--------------------------------------------------------- */
+
+
+/* A */
+.bg-bg-alizarin {background-color: rgb(227, 38, 54);}
+.bg-amaranth {background-color: rgb(229, 43, 80);}
+.bg-amber {background-color: rgb(255, 191, 0);}
+.bg-amethyst {background-color: rgb(153, 102, 204);}
+.bg-apricot {background-color: rgb(251, 206, 177);}
+.bg-aqua {background-color: aqua;}
+.bg-aquamarine {background-color: rgb(127, 255, 212);}
+.bg-asparagus {background-color: rgb(123, 160, 91);}
+.bg-auburn {background-color: rgb(109, 53, 26);}
+.bg-azure {background-color: rgb(0, 127, 255);}
+
+/* B */
+.bg-beige {background-color:rgb(245, 245, 220);}
+.bg-bistre{background-color: rgb(61, 43, 31);}
+.bg-black{background-color:black}
+.bg-blue{background-color:blue}
+.bg-blue-green{background-color:#00DDDD}
+.bg-blue-violet{background-color:#8A2BE2}
+.bg-bondi-blue{background-color: #0095B6;}
+.bg-brass{background-color: #B5A642}
+.bg-bronze{background-color: #CD7F32}
+.bg-brown{background-color: #964B00}
+.bg-buff{background-color:#F0DC82}
+.bg-burgundy{background-color: #900020}
+.bg-burnt-orange{background-color:#CC5500}
+.bg-burnt-seinna{background-color:#E97451}
+.bg-burnt-umber{background-color:#8A3324}
+
+/* C */
+
+.bg-camouflage-green{background-color:#78866B}
+.bg-caput-mortuum{background-color:#592720}
+.bg-cardinal{background-color:#C41E3A}
+.bg-carmine{background-color:#960018}
+.bg-carrot-orange{background-color:#ED9121} 
+.bg-celadon{background-color:#ACE1AF}
+.bg-cerise{background-color:#DE3163}
+.bg-cerulean{background-color:#007BA7}
+.bg-champagne{background-color:#F7E7CE}
+.bg-charcoal{background-color:#464646}
+.bg-chartreuse{background-color:#7FFF00}
+.bg-cherry-blossom-pink{background-color:#FFB7C5}	 
+.bg-chestnut{background-color:#CD5C5C}
+.bg-chocolate{background-color:#7B3F00}
+.bg-cinnabar{background-color:#E34234}
+.bg-cinnamon{background-color:#D2691E}
+.bg-cobalt{background-color:#0047AB}
+.bg-copper{background-color:#B87333}
+.bg-coral{background-color:#FF7F50}
+.bg-corn{background-color:#FBEC5D}
+.bg-cornflower{background-color:#6495ED}
+.bg-cream{background-color:#FFFDD0}
+.bg-crimsom{background-color:#DC143C}
+.bg-cyan{background-color:#00FFFF}
+
+/* D */
+.bg-dandelion{background-color:#FED85D}
+.bg-denim{background-color:#1560BD}
+.bg-dark-blue{background-color:darkblue}
+.bg-dark-cyan{background-color:darkcyan}
+/* Dark Series */
+.bg-dark-goldenrod{background-color:darkgoldenrod}
+.bg-dark-gray{background-color:darkgray}
+.bg-dark-green{background-color:darkgreen}
+.bg-dark-grey{background-color:darkgrey}
+.bg-dark-khaki{background-color:darkkhaki}
+.bg-dark-magenta{background-color:darkmagenta}
+.bg-dark-olive-green{background-color:darkolivegreen}
+.bg-dark-orange{background-color:darkorange}
+.bg-dark-orchid{background-color:darkorchid}
+.bg-dark-red{background-color:darkred}
+.bg-dark-salmon{background-color:darksalmon}
+.bg-dark-seagreen{background-color:darkseagreen}
+.bg-dark-slate-blue{background-color:darkslateblue}
+.bg-dark-slate-gray{background-color:darkslategray}
+.bg-dark-slate-grey{background-color:darkslategrey}
+.bg-dark-turquoise{background-color:darkturquoise}
+.bg-dark-violet{background-color:darkviolet}
+
+/* E */
+.bg-ecru{background-color:#C2B280}
+.bg-emerald{background-color:#50C878}
+.bg-eggplant{background-color:#614051}
+
+/* F */
+.bg-falu-red{background-color:#801818}
+.bg-fern-green{background-color:#4F7942}
+.bg-firebrick{background-color:#B22222}
+.bg-flax{background-color:#EEDC82}
+.bg-forest-green{background-color:#228B22}
+.bg-french-rose{background-color:#F64A8A}
+.bg-fruchsia{background-color:#FF00FF}
+
+/* G */
+.bg-gamboge{background-color:#E49B0F}
+.bg-gold{background-color:#D4AF37}
+.bg-goldenrod{background-color:goldenrod}
+.bg-green{background-color:#00FF00}
+.bg-gray{background-color:gray}
+.bg-grey{background-color:grey}
+
+/* H */
+.bg-han-purple{background-color:#5218FA}
+.bg-harlequin{background-color:#3FFF00}
+.bg-heliotrope{background-color:#DF73FF}
+.bg-hollywood-cerise{background-color:#F400A1}
+
+/* I */
+.bg-indigo{background-color:#00416A}
+.bg-ivory{background-color:#FFFFF0}
+
+/* J */
+.bg-jade{background-color:#00A86B}
+
+/* K */
+.bg-kelly-green{background-color:#4CBB17}
+.bg-khaki{background-color:#C3B091}
+
+/* L */
+.bg-lavender{background-color:#B57EDC}
+.bg-lawn-green{background-color:#7CFC00}
+.bg-lemon{background-color:#FDE910}
+.bg-lemon-chiffon{background-color:lemonchiffon}
+.bg-lilac{background-color:#C8A2C8}
+.bg-lime{background-color:#00FF00}
+.bg-lime-green{background-color:#32CD32}
+.bg-linen{background-color:#FAF0E6}
+
+/* M */
+.bg-magenta{background-color:#FF00FF}
+.bg-magnolia{background-color:#F8F4FF}
+.bg-malachite{background-color:#0BDA51}
+.bg-maroon{background-color:#800000}
+.bg-mauve{background-color:#E0B0FF}
+.bg-midnight-blue{background-color:#191970}
+.bg-mint{background-color:#98FF98}
+.bg-mint-green{background-color:#98FF98}
+.bg-misty-rose{background-color:#FFE4E1}
+.bg-moss-green{background-color:#ADDFAD}
+.bg-mustard{background-color:#FFDB58}
+.bg-myrtle{background-color:#21421E}
+
+/* N */
+.bg-navajo-white{background-color:#FFDEAD}
+.bg-navy-blue{background-color:#000080}
+
+/* O */
+.bg-ochre{background-color:#CC7722}
+.bg-office-green{background-color:#008000}
+.bg-olive{background-color:#808000}
+.bg-olivine{background-color:#9AB973}
+.bg-orange{background-color:#FF7F00}
+.bg-orchid{background-color:#DA70D6}
+
+/* P */
+.bg-papaya-whip{background-color:#FFEFD5}
+.bg-peach{background-color:#FFE5B4}
+.bg-pear{background-color:#D1E231}
+.bg-periwinkle{background-color:#CCCCFF}
+.bg-persimmon{background-color:#EC5800}
+.bg-pine-green{background-color:#01796F}
+.bg-pink{background-color:#FFC0CB}
+.bg-platinum{background-color:#E5E4E2}
+.bg-plum{background-color:#CC99CC}
+.bg-powder-blue{background-color:#B0E0E6}
+.bg-puce{background-color:#CC8899}
+.bg-prussian-blue{background-color:#003153}
+.bg-psychedelic-purple{background-color:#DD00FF}
+.bg-pumpkin{background-color:#FF7518}
+.bg-purple{background-color:#800080}
+
+/* Q */
+.bg-quartz.bg-grey{background-color:#6C6961}
+
+/* R */
+.bg-raw-umber{background-color:#734A12}
+.bg-razzmatazz{background-color:#E30B5C}
+.bg-red{background-color:red}
+.bg-robin-egg-blue{background-color:#00CCCC}
+.bg-rose{background-color:#FF007F}
+.bg-royal-blue{background-color:#4169E1}
+.bg-royal-purple{background-color:#6B3FA0}
+.bg-ruby{background-color:#E0115F}
+.bg-russet{background-color:#80461B}
+.bg-rust{background-color:#B7410E}
+
+/* S */
+.bg-safety-orange{background-color:#FF6600}
+.bg-saffron{background-color:#F4C430}
+.bg-salmon{background-color:#FF8C69}
+.bg-sandy-brown{background-color:#F4A460}
+.bg-sangria{background-color:#92000A}
+.bg-sapphire{background-color:#082567}
+.bg-scarlet{background-color:#FF2400}
+.bg-school-bus-yellow{background-color:#FFD800}
+.bg-sea-green{background-color:#2E8B57}
+.bg-seashell{background-color:#FFF5EE}
+.bg-sepia{background-color:#704214}
+.bg-shamrock-green{background-color:#009E60}
+.bg-shocking-pink{background-color:#FC0FC0}
+.bg-silver{background-color:silver}
+.bg-sky-blue{background-color:#87CEEB}
+.bg-slate-grey{background-color:#708090}
+.bg-smalt{background-color:#003399}
+.bg-spring-bud{background-color:#A7FC00}
+.bg-spring-green{background-color:#00FF7F}
+.bg-steel-blue{background-color:#4682B4}
+
+/* T */
+.bg-tan{background-color:tan}
+.bg-tangerine{background-color:#F28500}
+.bg-taupe{background-color:#483C32}
+.bg-teal{background-color:teal}
+.bg-tawny{background-color:#CD5700}
+.bg-terra-cotta{background-color:#E2725B}
+.bg-thistle{background-color:#D8BFD8}
+.bg-titanium-white{background-color:#fff}
+.bg-tomato{background-color:tomato}
+.bg-turquoise{background-color:#30D5C8}
+.bg-tyrian-purple{background-color:#66023C}
+
+/* U */
+.bg-ultramarine{background-color:#120A8F}
+
+/* V */
+.bg-van-dyke-brown{background-color:#413000}
+.bg-vermilion{background-color:#E34234}
+.bg-violet{background-color:#8B00FF}
+.bg-veridian{background-color:#40826D}
+
+/* W */
+.bg-wheat{background-color:#F5DEB3}
+.bg-white{background-color:white}
+.bg-white-smoke{background-color:whitesmoke}
+.bg-wisteria{background-color:#C9A0DC}
+
+/* X */
+.bg-xanthic{background-color:#eeed09}
+
+/* Y */
+.bg-yellow{background-color:yellow}
+.bg-yellow-green{background-color:yellowgreen}
+
+/* Z */
+.bg-zucchini{background-color:#506022}
+
+/* Light Series */
+.bg-light-blue{background-color:lightblue}
+.bg-light-coral{background-color:lightcoral}
+.bg-light-cyan{background-color:lightcyan}
+.bg-light-goldenrod-yellow{background-color:lightgoldenrodyellow}
+.bg-light-green{background-color:lightgreen}
+.bg-light-grey{background-color:lightgrey}
+.bg-light-gray{background-color:lightgray}
+.bg-light-pink{background-color:lightpink}
+.bg-light-salmon{background-color:lightsalmon}
+.bg-light-sea-green{background-color:lightseagreen}
+.bg-light-sky-blue{background-color:lightskyblue}
+.bg-light-slate-gray{background-color:lightslategray}
+.bg-light-slate-grey{background-color:lightslategrey}
+.bg-light-steel-blue{background-color:lightsteelblue}
+.bg-light-yellow{background-color:lightyellow}
+
+/* Alternatives */
+.bg-alt-gold{background-color:gold}
+.bg-alt-green{background-color:green}
+.bg-alt-indigo{background-color:indigo}
+.bg-alt-khaki{background-color:khaki}
+.bg-alt-lavender{background-color:lavender}
+.bg-alt-orange{background-color:orange}
+.bg-alt-violet{background-color:violet}
+.bg-alt-{background-color: light}
