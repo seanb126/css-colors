@@ -552,3 +552,9 @@
 .bg-alt-orange{background-color:orange}
 .bg-alt-violet{background-color:violet}
 .bg-alt-{background-color: light}
+
+/* Feautures */
+.invert {
+    filter: invert(1);
+}
+
