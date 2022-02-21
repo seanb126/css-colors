@@ -13,7 +13,7 @@ This project uses a free CDN provided by: [GitHack.com](https://raw.githack.com/
 
 To use the CDN copy the following into the 'head' section of your HTML file:
 ```html
- <link rel="stylesheet" href="LINK">
+ <link rel="stylesheet" href="https://raw.githack.com/seanb126/css-colors/main/colors.css">
 ```
 ### Text Color
 
