@@ -42,7 +42,6 @@ This class will invert the elements color:
 <img class="invert" src="/images/helloWorld.png"></img>
 ```
 
-
 ## Contributing
 Contributions are welcome! The project is always looking out for new colors and more features.
 
@@ -51,7 +50,6 @@ feel free to fork the project, make your desired changes, then open a pull reque
 - DESCRIPTION: This adds the color Magenta to the library.
 
 ## Issues
-
 Feel free to report any problems in the issues section.
 
 ## License
