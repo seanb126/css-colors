@@ -1,5 +1,8 @@
-# CSS COLORS
-<!-- Shields -->
+<div align="center"><img src="./images/css-colors.png" width="200" height="200" />
+<h1>CSS Colors</h1></div>
+
+## CSS COLORS 1
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/seanb126/css-colors)
 ![GitHub Release Date](https://img.shields.io/github/release-date/seanb126/css-colors)
 ![GitHub file size in bytes](https://img.shields.io/github/size/seanb126/css-colors/colors.css)
