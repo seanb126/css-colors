@@ -1,5 +1,14 @@
 # CSS COLORS
 <!-- Shields -->
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/seanb126/css-colors)
+![GitHub Release Date](https://img.shields.io/github/release-date/seanb126/css-colors)
+![GitHub file size in bytes](https://img.shields.io/github/size/seanb126/css-colors/colors.css)
+![GitHub all releases](https://img.shields.io/github/downloads/seanb126/css-colors/total)
+
+
+![GitHub](https://img.shields.io/github/license/seanb126/css-colors?style=plastic)
+
+
 A CSS library that provides a comprehensive list of color classes, to be applied to your HTML elements.
 
 Avoid:
