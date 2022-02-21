@@ -1,11 +1,12 @@
-# CSS COLORS
-<!-- Shields -->
+<div align="center"><img src="./images/css-colors.png" width="200" height="200" />
+<h1>CSS Colors</h1></div>
+
+## CSS COLORS 1
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/seanb126/css-colors)
 ![GitHub Release Date](https://img.shields.io/github/release-date/seanb126/css-colors)
 ![GitHub file size in bytes](https://img.shields.io/github/size/seanb126/css-colors/colors.css)
 ![GitHub all releases](https://img.shields.io/github/downloads/seanb126/css-colors/total)
-
-
 ![GitHub](https://img.shields.io/github/license/seanb126/css-colors?style=plastic)
 
 
@@ -40,13 +41,6 @@ This class will invert the elements color:
 ```html
 <img class="invert" src="/images/helloWorld.png"></img>
 ```
-<!-- ## Version
-semantic versioning is used for this project.
-
-| Version      | Description | Release Date     |
-| :---        |    :----:   |          ---: |
-| 1.0.0      | Initial release       | xx/02/2022   |
-| Paragraph   | Text        | And more      | -->
 
 
 ## Contributing
@@ -58,7 +52,7 @@ feel free to fork the project, make your desired changes, then open a pull reque
 
 ## Issues
 
-Issues are also welcome!
+Feel free to report any problems in the issues section.
 
 ## License
 (See LICENSE)
